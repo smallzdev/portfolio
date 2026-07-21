@@ -33,28 +33,7 @@ a {
     margin-right: 10px;
 }
 
-.TerraRush, .Commissions {
-    font-size: 15px;
-    font-family: Lato, Helvetica, Arial, sans-serif;
-    border-radius: 20px;
-    width: 180px;
-    height: 40px;
-    border: 2px solid #000;
-    background-color: rgb(45, 9, 84);
-    font-weight: bold;
-    color: rgb(255, 255, 255);
-}
-
-.TerraRush:hover, .Commissions:hover {
-    transition: 0.3s;
-    opacity: 0.7;
-    color: rgb(255, 255, 255);
-    cursor: pointer;
-}
-
-.TerraRush:active, .Commissions:active {
-    transition: 0.3s;
-    opacity: 0.5;
-    cursor: pointer;
-    color: rgb(255, 255, 255);
+.commissions-link {
+    font-size: 24px;
+    color: rgb(255, 255, 255)
 }
