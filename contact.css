@@ -37,3 +37,22 @@ a {
     font-size: 24px;
     color: rgb(255, 255, 255)
 }
+
+.discord-icon {
+    width: 125px;
+    height: 125px;
+    margin-right: 14px;
+}
+
+.discord-text {
+    color: rgb(255, 255, 255);
+    font-family: Lato, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+}
+
+.discord-div {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    margin-left: 14px;
+}
