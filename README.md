@@ -19,6 +19,7 @@ I created this personal portfolio as a beginner project into html and CSS. ALtho
 7. 💰 Commision information (for future use)
 8. 😀 About me section including images and labels of places I want to visit.
 9. 😑 Spacing and lines between paragraphs and sections (using breaks and split p variables.
+10. ✍️ Imported a font called 'Lato' from google fonts.
 
 **About the feautures 😎**
 <br>
@@ -36,3 +37,7 @@ There are also buttons on the page, when hovering and clicked they change opacit
 
 
 Anyways, I hope you like it!
+
+**Credits ✨**
+<br>
+This project was made by me. I only used AIs such as Copilot CLI, and ChatGPT to debug (not edit the script, just tell me what I did wrong), and sometimes the inline suggestions on VS code.
